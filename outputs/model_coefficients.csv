@@ -1,0 +1,27 @@
+feature,coefficient,odds_ratio,effect
+Cart_Items,0.5760539631261702,1.779004544358962,↑ raises purchase odds
+Membership_Type_Premium,0.5347581671219066,1.7070353750560352,↑ raises purchase odds
+Cart_Value_INR,0.4095422420460172,1.506128185133495,↑ raises purchase odds
+Traffic_Source_Social Media,-0.32677418474274694,0.7212465931238659,↓ lowers purchase odds
+Traffic_Source_Organic,-0.3080115407777072,0.7349068365636913,↓ lowers purchase odds
+Traffic_Source_Referral,-0.3045102747962829,0.7374844506931826,↓ lowers purchase odds
+Session_Duration_Min,0.27238667045221804,1.3130946380582211,↑ raises purchase odds
+Pages_Viewed,0.2610686273083782,1.298316762361237,↑ raises purchase odds
+Products_Viewed,0.2557744940804347,1.291461462895169,↑ raises purchase odds
+Membership_Type_Regular,0.2400606707812252,1.271326280340232,↑ raises purchase odds
+Traffic_Source_Paid Ads,-0.23477518627122881,0.7907486007890003,↓ lowers purchase odds
+Device_Type_Mobile,-0.2166166694990551,0.8052385826600377,↓ lowers purchase odds
+Previous_Orders,0.21554187393315521,1.240533927870311,↑ raises purchase odds
+Days_Since_Last_Visit,-0.213260738809976,0.8079454470157454,↓ lowers purchase odds
+Discount_Percent,0.1463590376629149,1.1576117396605634,↑ raises purchase odds
+Gender_Other,-0.1404429652984451,0.8689732251479925,↓ lowers purchase odds
+Returns_Last_Year,-0.114290232557268,0.891999031150141,↓ lowers purchase odds
+Customer_Rating,0.08689071599249201,1.09077746867139,↑ raises purchase odds
+Email_Open_Rate,0.08286338439339117,1.0863933801190082,↑ raises purchase odds
+Device_Type_Tablet,-0.06382058928941414,0.9381733027714789,↓ lowers purchase odds
+Payment_Method_UPI,0.04649798946636032,1.0475959728394724,↑ raises purchase odds
+Gender_Male,-0.03360459572414592,0.9669537667124081,↓ lowers purchase odds
+Payment_Method_Wallet,-0.028402747255865456,0.9719968189075946,↓ lowers purchase odds
+Payment_Method_Debit Card,0.005573249632574328,1.0055888090804403,↑ raises purchase odds
+Age,-0.0038072506593531427,0.9961999877304033,↓ lowers purchase odds
+Payment_Method_Credit Card,0.0,1.0,↓ lowers purchase odds

@@ -1,0 +1,1 @@
+"""ShopSmart purchase-prediction package."""

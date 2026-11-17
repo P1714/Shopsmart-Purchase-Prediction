@@ -1,0 +1,6 @@
+Customer_ID,Age,Gender,Device_Type,Traffic_Source,Membership_Type,Payment_Method,Session_Duration_Min,Pages_Viewed,Products_Viewed,Cart_Items,Cart_Value_INR,Discount_Percent,Previous_Orders,Days_Since_Last_Visit,Email_Open_Rate,Customer_Rating,Returns_Last_Year,Purchase_Probability,Predicted_Purchase,Segment
+NEW0001,29,Female,Desktop,Email,Premium,UPI,22.5,12,7,3,3800.0,15,6,2,0.72,4.5,0,0.9953,1,High intent
+NEW0002,41,Male,Mobile,Social Media,New,Cash on Delivery,3.2,3,1,0,450.0,5,0,40,0.1,3.1,2,0.0296,0,Low intent / at risk
+NEW0003,33,Other,Tablet,Paid Ads,Regular,Credit Card,11.0,7,4,1,1500.0,10,3,9,0.5,,1,0.5862,1,Medium intent
+NEW0004,52,Female,Mobile,Organic,Regular,Wallet,8.4,6,3,2,2100.0,12,2,15,0.35,3.9,1,0.599,1,Medium intent
+NEW0005,24,Male,Desktop,Referral,New,Debit Card,15.0,9,5,1,,8,1,5,0.6,4.2,0,0.6688,1,Medium intent

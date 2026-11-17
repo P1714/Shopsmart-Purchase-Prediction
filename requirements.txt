@@ -1,0 +1,9 @@
+# Versions used to train and save models/logistic_regression_purchase_model.joblib.
+# Keep scikit-learn on this version to load the saved model; re-run the notebook to retrain on another version.
+scikit-learn==1.9.1
+numpy>=2.0
+pandas>=2.2
+matplotlib>=3.8
+seaborn>=0.13
+joblib>=1.3
+jupyter

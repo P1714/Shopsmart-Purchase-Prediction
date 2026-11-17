@@ -1,0 +1,4 @@
+,Accuracy,Precision,Recall,F1,ROC-AUC
+Baseline (always 1),0.648,0.648,1.0,0.7864,
+Logistic Regression (default),0.7025,0.7254,0.8704,0.7913,0.74
+Logistic Regression (tuned),0.7035,0.726,0.8711,0.792,0.7399
