@@ -107,7 +107,7 @@ shopsmart-purchase-prediction/
 ## How to run
 
 ```bash
-git clone https://github.com/<your-username>/shopsmart-purchase-prediction.git
+git clone https://github.com/P1714/shopsmart-purchase-prediction.git
 cd shopsmart-purchase-prediction
 pip install -r requirements.txt
 
